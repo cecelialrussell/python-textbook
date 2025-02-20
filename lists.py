@@ -39,3 +39,4 @@ print(message)
 
 message = f"I would like to visit {places[3].title()}."
 print(message)
+
